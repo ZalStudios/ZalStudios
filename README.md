@@ -1,6 +1,4 @@
-Most of these scripts were taken from Tutorial!!
-These Mostly are not mine!!
-(Stick Fight: The Ultimate Battle)
-This is for a game not in public
-but it is a stick fight game
-take anything in it idrc
+These are scripts from 2 of my games.
+take any code from these! I don't mind.
+DO not credit me for scripts like these.
+Have a great day!!
